@@ -1,0 +1,38 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Vite / Build output
+dist/
+dist-ssr/
+.vite/
+*.local
+
+# Environment files
+.env
+.env.*.local
+
+# Testing / Reports
+coverage/
+.cypress/
+playwright-report/
+test-results/
+
+# Logs
+logs/
+*.log
+lerna-debug.log*
+
+# Caches and temp
+.cache/
+.tmp/
+tmp/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
